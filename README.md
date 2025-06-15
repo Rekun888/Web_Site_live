@@ -754,7 +754,7 @@
                 <p>Пространство, созданное подростками для подростков, где каждый может найти свой уголок и реализовать творческие идеи. Мы преобразуем заброшенные здания в центры молодежной культуры и творчества.</p>
                 <div class="social-links">
                     <a href="#"><i class="fab fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-telegram"></i></a>
+                    <a href="https://t.me/revival_zabroshka"><i class="fab fa-telegram"></i></a>
                     <a href="#"><i class="fab fa-tiktok"></i></a>
                     <a href="#"><i class="fab fa-youtube"></i></a>
                 </div>

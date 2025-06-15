@@ -762,7 +762,7 @@
 
             <div class="footer-column">
                 <h3>Контакты</h3>
-                <p><i class="fas fa-map-marker-alt"></i> Ул. Свободная, 24 (бывшая фабрика "Прогресс")</p>
+                <p><i class="fas fa-map-marker-alt"></i>Москва, 9-я Чоботовская аллея, 35с1</p>
                 <p><i class="fas fa-envelope"></i> revival@zabroshka.org</p>
                 <p><i class="fas fa-phone"></i> +7 (XXX) XXX-XX-XX</p>
                 <p><i class="fas fa-clock"></i> Посещение по предварительной договоренности</p>
